@@ -25,13 +25,13 @@ I'm a Software Engineer specialized in _Go_ and _Python_, currently honing my ba
 
 ## <img width="35px" align="top" src="https://img.icons8.com/dusk/64/combo-chart--v1.png" alt="combo-chart--v1"/> Github Stats
 <a href="https://github.com/anaxaim/github-stats-transparent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anaxaim&show_icons=true&cache_seconds=86400&theme=bear" alt="GitHub Stats" width="375" style="max-width: 100%;"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaxaim&hide=shell,Makefile,Dockerfile,HCL,HTML,SCSS,&layout=compact&theme=bear" alt="GitHub Top Langs" width="335" style="max-width: 100%;"/>
 </a>
 <a href="https://github.com/anaxaim/github-stats-transparent">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaxaim&hide=shell,Makefile,Dockerfile,HCL,HTML,SCSS,&layout=compact&theme=bear" alt="GitHub Top Langs" width="335" style="max-width: 100%;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anaxaim&show_icons=true&cache_seconds=86400&theme=bear" alt="GitHub Stats" width="370" style="max-width: 100%;"/>
 </a>
 
 ## <img width="35px" align="top" src="https://img.icons8.com/dusk/64/combo-chart--v1.png" alt="combo-chart--v1"/> LeetCode Stats
 <a href="https://github.com/anaxaim/leetcode-stats">
-    <img src="https://leetcode-stats-six.vercel.app/?username=anaxaim_evvmi&theme=bear" alt="LeetCode Stats" style="max-width: 100%;"/>
+    <img src="https://leetcode-stats-six.vercel.app/?username=anaxaim_evvmi&theme=dark" alt="LeetCode Stats" width="335" style="max-width: 100%;"/>
 </a>
