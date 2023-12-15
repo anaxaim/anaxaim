@@ -15,8 +15,9 @@ I'm a Software Engineer specialized in _Go_ and _Python_, currently honing my ba
 ## <img width="35px" align="top" src="https://img.icons8.com/dusk/64/resume.png" alt="resume"/>  Experience
 
 <ul list-style-type: none; padding-left=0;>
-    <li class="experience-item"><b>Cur</b>: <i>Edgecenter</i> as Golang Developer, <b>Go</b> (since Dec 2022)</li>
+    <li class="experience-item"><b>Cur</b>: <i>Avito</i> as Golang Developer, <b>Go</b> (since Dec 2023)</li>
     <li class="experience-item"><b>Cur</b>: <i>Yandex.Praktikum</i> as course Author, <b>Go, Python</b> (since Mar 2022)</li>
+    <li class="experience-item"><b>Ex</b>: <i>Edgecenter</i> as Golang Developer, <b>Go</b> (Dec 2022 - Dec 2023)</li>
     <li class="experience-item"><b>Ex</b>: <i>Andersen</i> as Golang Developer, <b>Go</b> (Jun 2022 - Dec 2023)</li>
     <li class="experience-item"><b>Ex</b>: <i>MTS-Bank</i> as QA Automation Engineer, <b>Go, Python</b> (Jun 2021 - May 2022)</li>
     <li class="experience-item"><b>Ex</b>: <i>Intento</i> as QA Automation Engineer, <b>Python</b> (Aug 2020 - Jun 2021)</li>
